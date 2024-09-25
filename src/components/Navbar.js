@@ -13,7 +13,7 @@ const Navbar = ({ searchTerm, setSearchTerm, activeCharacterId }) => {
     <AppBar position="static" style={{ backgroundColor: '#333' }}>
       <Toolbar>
         <img
-          src="/logo.png"
+          src="/logo.webp"
           alt="logo"
           className="navbar-logo"
           onClick={handleLogoClick}
