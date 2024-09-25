@@ -1,0 +1,2 @@
+# Se ignoran los ficheros .webp para no subirlos a git. Se deberia subir en esta carpeta las imagenes en caso de no funcionar las URL
+*.webp

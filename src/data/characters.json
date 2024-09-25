@@ -1,0 +1,861 @@
+[
+    { 
+      "id": 1, 
+      "name": "Goku (Z-Early)", 
+      "image": "https://media.graphassets.com/PH6jjZkGS1KaO7AufpIq", 
+      "backupImage": "images/01_Son_Goku_Z_Early.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 2, 
+      "name": "Gohan (Kid)", 
+      "image": "https://media.graphassets.com/mvH2WQOS6epqkgBkxQcf", 
+      "backupImage": "images/57_Gohan_Kid.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 3, 
+      "name": "Piccolo", 
+      "image": "https://media.graphassets.com/eP8zDckDTW2mPuxpx9Ia", 
+      "backupImage": "images/25_Piccolo.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 4, 
+      "name": "Vegeta (Z-Scouter)", 
+      "image": "https://media.graphassets.com/NXF1FtRwR4CILvTc2bIC", 
+      "backupImage": "images/12_Vegeta_Z_Scouter.webp", 
+      "transformations": [
+        { "id": 5, "name": "Great Ape Vegeta", "image": "https://media.graphassets.com/n2NwluEPRoWdy1Fm9bER", "backupImage": "images/13_Great_Ape_Vegeta.webp" }
+      ] 
+    },
+    { 
+      "id": 6, 
+      "name": "Krillin", 
+      "image": "https://media.graphassets.com/oTSq3sDNQcukhJ9tExfi", 
+      "backupImage": "images/26_Krillin.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 7, 
+      "name": "Yamcha", 
+      "image": "https://media.graphassets.com/bJNzXQnER9OCThp6KS2m", 
+      "backupImage": "images/27_Yamcha.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 8, 
+      "name": "Goku (Z-Mid)", 
+      "image": "https://media.graphassets.com/wFcfV5TT0GdFqU6uEbQn", 
+      "backupImage": "images/02_Son_Goku_Z_Mid.webp", 
+      "transformations": [
+        { "id": 9, "name": "Goku (Z-Mid)", "subname": "Super Saiyan", "image": "https://media.graphassets.com/yVRfiV91TGJsTol1qLIZ", "backupImage": "images/03_Son_Goku_Super_Saiyan_Z_Mid.webp" }
+      ] 
+    },
+    { 
+      "id": 10, 
+      "name": "Gohan (Teen)", 
+      "image": "https://media.graphassets.com/muR95lS2Rde6idvzb3Q1", 
+      "backupImage": "images/116_Gohan_Teen.webp", 
+      "transformations": [
+        { "id": 11, "name": "Gohan (Teen)", "subname": "Super Saiyan", "image": "https://media.graphassets.com/7A1HthFS3G974QsxfwLj", "backupImage": "images/117_Gohan_Teen_Super_Saiyan.webp" },
+        { "id": 12, "name": "Gohan (Teen)", "subname": "Super Saiyan 2", "image": "https://media.graphassets.com/iwpYoQyQDC3VH4UFljww", "backupImage": "images/118_Gohan_Teen_Super_Saiyan2.webp" }
+      ] 
+    },
+    { 
+      "id": 13, 
+      "name": "Piccolo (Fused with Kami)", 
+      "image": "https://media.graphassets.com/p9YPbt1XRCq07AgP7MqQ", 
+      "backupImage": "images/128_Piccolo_Fused_Kami.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 14, 
+      "name": "Vegeta (Z-Early)", 
+      "image": "https://media.graphassets.com/u8mBsIMzQXiMjkcM8axj", 
+      "backupImage": "images/14_Vegeta_Z_Early.webp", 
+      "transformations": [
+        { "id": 15, "name": "Vegeta (Z-Early)", "subname": "Super Saiyan", "image": "https://media.graphassets.com/P2BoM6LXRXKZpwXmYZT7", "backupImage": "images/15_Vegeta_Super_Saiyan_Z_Early.webp" },
+        { "id": 16, "name": "Super Vegeta", "image": "https://media.graphassets.com/xaTAhlRbTyiKGPRRZXzM", "backupImage": "images/16_Super_Vegeta.webp" }
+      ] 
+    },
+    { 
+      "id": 17, 
+      "name": "Trunks (Sword)", 
+      "image": "https://media.graphassets.com/LNPyUPMSRkSxTOETxKAz", 
+      "backupImage": "images/59_Trunks_Sword.webp", 
+      "transformations": [
+        { "id": 18, "name": "Trunks (Sword)", "subname": "Super Saiyan", "image": "https://media.graphassets.com/P3A0QV2VRwy7CXM5caF5", "backupImage": "images/60_Trunks_Sword_Super_Saiyan.webp" }
+      ] 
+    },
+    { 
+      "id": 19, 
+      "name": "Trunks (Melee)", 
+      "image": "https://media.graphassets.com/nJHvx2PtTgCl21HDus3s", 
+      "backupImage": "images/119_Trunks_Melee.webp", 
+      "transformations": [
+        { "id": 20, "name": "Trunks (Melee)", "subname": "Super Saiyan", "image": "https://media.graphassets.com/TgU0AvHdTaaQ3MmKkp7r", "backupImage": "images/29_Trunks_Super_Saiyan_Melee.webp" },
+        { "id": 21, "name": "Super Trunks", "image": "https://media.graphassets.com/yeXwgASQ52zcICjVPx14", "backupImage": "images/41_Super_Trunks.webp" }
+      ] 
+    },
+    { 
+      "id": 22, 
+      "name": "Goku (Z-End)", 
+      "image": "https://media.graphassets.com/WXwj3mIVSNuDrp4PXamN", 
+      "backupImage": "images/04_Son_Goku_Z_End.webp", 
+      "transformations": [
+        { "id": 23, "name": "Goku (Z-End)", "subname": "Super Saiyan", "image": "https://media.graphassets.com/amhNkthQVWad8ZhWkiuV", "backupImage": "images/05_Son_Goku_Super_Saiyan_Z_End.webp" },
+        { "id": 24, "name": "Goku (Z-End)", "subname": "Super Saiyan 2", "image": "https://media.graphassets.com/RcdbnGQzSNebOnRzwCiV", "backupImage": "images/06_Son_Goku_Super Saiyan 2_Z_End.webp" },
+        { "id": 25, "name": "Goku (Z-End)", "subname": "Super Saiyan 3", "image": "https://media.graphassets.com/mndORp1mRYq6CikxDCcL", "backupImage": "images/07_Son_Goku_Super_Saiyan 3_Z_End.webp" }
+      ] 
+    },
+    { 
+      "id": 26, 
+      "name": "Gohan (Adult)", 
+      "image": "https://media.graphassets.com/wqQJoldgTAaQ8erKyJLo", 
+      "backupImage": "images/53_Gohan_Adult.webp", 
+      "transformations": [
+        { "id": 27, "name": "Gohan (Adult)", "subname": "Super Saiyan", "image": "https://media.graphassets.com/HtJF4NJS3aGyQEvJ2CJA", "backupImage": "images/133_Gohan_Adult_Super_Saiyan.webp" },
+        { "id": 28, "name": "Gohan (Adult)", "subname": "Super Saiyan 2", "image": "https://media.graphassets.com/uMKXq6JTrCEo3qLXpkql", "backupImage": "images/84_Gohan_Adult_Super_Saiyan2.webp" },
+        { "id": 29, "name": "Great Saiyaman", "image": "https://media.graphassets.com/Xbath3BtT6OP8UozJBGO", "backupImage": "images/131_Great_Saiyaman.webp" }
+      ] 
+    },
+    { 
+      "id": 30, 
+      "name": "Ultimate Gohan", 
+      "image": "https://media.graphassets.com/hjbS54qRUiZqUKqKwmXg", 
+      "backupImage": "images/136_Ultimate_Gohan.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 31, 
+      "name": "Vegeta (Z-End)", 
+      "image": "https://media.graphassets.com/dFiVJUlTMKnfcIlXSobg", 
+      "backupImage": "images/17_Vegeta_Z_End.webp", 
+      "transformations": [
+        { "id": 32, "name": "Vegeta (Z-End)", "subname": "Super Saiyan", "image": "https://media.graphassets.com/vBzcEBF0S1SHC4HbFpP2", "backupImage": "images/18_Vegeta_Super_Saiyan_Z_End.webp" },
+        { "id": 33, "name": "Vegeta (Z-End)", "subname": "Super Saiyan 2", "image": "https://media.graphassets.com/Qxxdf7K7T1a9pYhKpODS", "backupImage": "images/19_Vegeta_Super_Saiyan_2_Z_End.webp" }
+      ] 
+    },
+    { 
+      "id": 34, 
+      "name": "Goten", 
+      "image": "https://media.graphassets.com/pLFV10TXRoiehrMbL8m4", 
+      "backupImage": "images/64_Goten.webp", 
+      "transformations": [
+        { "id": 35, "name": "Goten", "subname": "Super Saiyan", "image": "https://media.graphassets.com/6Q1MEhpdTICnOa0wFUgj", "backupImage": "images/65_Goten_Super_Saiyan.webp" }
+      ] 
+    },
+    { 
+      "id": 36, 
+      "name": "Trunks (Kid)", 
+      "image": "https://media.graphassets.com/Z2FjyhYUTFyUVobAes1h", 
+      "backupImage": "images/62_Trunks_Kid.webp", 
+      "transformations": [
+        { "id": 37, "name": "Trunks (Kid)", "subname": "Super Saiyan", "image": "https://media.graphassets.com/QisS3qJRRoC5zLwtpmeg", "backupImage": "images/63_Trunks_Kid_Super_Saiyan.webp" }
+      ] 
+    },
+    { 
+      "id": 38, 
+      "name": "Goku (Super)", 
+      "image": "https://media.graphassets.com/8Zy5EXueRR2lvE8hYF28", 
+      "backupImage": "images/08_Son_Goku_Super.webp", 
+      "transformations": [
+        { "id": 39, "name": "Goku (Super)", "subname": "Super Saiyan", "image": "https://media.graphassets.com/Zl4JLYI8Qb6jk19iCn3B", "backupImage": "images/09_Goku_Super_Saiyan_Super.webp" },
+        { "id": 40, "name": "Goku (Super)", "subname": "Super Saiyan God", "image": "https://media.graphassets.com/w2brTEORm6fP59aNqnzA", "backupImage": "images/10_Son_Goku_Super_Saiyan_God_Super.webp" },
+        { "id": 41, "name": "Goku (Super)", "subname": "Super Saiyan God Super Saiyan", "image": "https://media.graphassets.com/OvjlXxRaSf6nM5L8lqWy", "backupImage": "images/11_Son_Goku_Super_Saiyan_God_Super_Saiyan_Super.webp" },
+        { "id": 42, "name": "Goku (Super)", "subname": "Ultra Instinct Sign", "image": "https://media.graphassets.com/dajU9ej2RjgRgZnVgnxG", "backupImage": "images/91_Son_Goku_Super_Ultra_Instinct_Sign.webp" },
+        { "id": 43, "name": "Goku (Super)", "subname": "Ultra Instinct", "image": "https://media.graphassets.com/f5BGkKSSNGUURAu2Opki", "backupImage": "images/83_Son_Goku_Super_Ultra_Instinct.webp" }
+      ] 
+    },
+    { 
+      "id": 44, 
+      "name": "Gohan (Future)", 
+      "image": "https://media.graphassets.com/S9dExWzToqrfIiSyTQMw", 
+      "backupImage": "images/55_Gohan_Future.webp", 
+      "transformations": [
+        { "id": 45, "name": "Gohan (Future)", "subname": "Super Saiyan", "image": "https://media.graphassets.com/my6QN67QnisLi6O1vf7O", "backupImage": "images/56_Gohan_Future_Super_Saiyan.webp" }
+      ] 
+    },
+    { 
+      "id": 46, 
+      "name": "Videl", 
+      "image": "https://media.graphassets.com/KraYPIYqRdOt1Uy7w0lc", 
+      "backupImage": "images/54_Videl.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 47, 
+      "name": "Vegeta (Super)", 
+      "image": "https://media.graphassets.com/eOBjIrCASaS1UiW8vtUF", 
+      "backupImage": "images/21_Vegeta_Super.webp", 
+      "transformations": [
+        { "id": 48, "name": "Vegeta (Super)", "subname": "Super Saiyan", "image": "https://media.graphassets.com/4wtkkiONQwyTExci3QSd", "backupImage": "images/22_Vegeta_Super_Saiyan_Super.webp" },
+        { "id": 49, "name": "Vegeta (Super)", "subname": "Super Saiyan God", "image": "https://media.graphassets.com/zDttfxuxRQ6LZ0gktxUM", "backupImage": "images/23_Vegeta_Super_Saiyan_God_Super.webp" },
+        { "id": 50, "name": "Vegeta (Super)", "subname": "Super Saiyan God Super Saiyan", "image": "https://media.graphassets.com/tVPOE9fRTiCTEhBvaejd", "backupImage": "images/24_Vegeta_Super_Saiyan_God_Super_Saiyan_Super.webp" }
+      ] 
+    },
+    { 
+      "id": 51, 
+      "name": "Majin Vegeta", 
+      "image": "https://media.graphassets.com/W3126twhSe7JONHFrPET", 
+      "backupImage": "images/20_Majin_Vegeta.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 52, 
+      "name": "Future Trunks", 
+      "image": "https://media.graphassets.com/bRlEkCHIRQuNfa6eUEvw", 
+      "backupImage": "images/97_Future_Trunks.webp", 
+      "transformations": [
+        { "id": 53, "name": "Future Trunks", "subname": "Super Saiyan", "image": "https://media.graphassets.com/CgiveuUuRbOYnvsxml8r", "backupImage": "images/30_Future Trunks_Super_Saiyan.webp" }
+      ] 
+    },
+    { 
+      "id": 54, 
+      "name": "Goku (GT)", 
+      "image": "https://media.graphassets.com/Y72Y7sAVRiSgKV3bp3VY", 
+      "backupImage": "images/140_Goku_GT.webp", 
+      "transformations": [
+        { "id": 55, "name": "Goku (GT)", "subname": "Super Saiyan", "image": "https://media.graphassets.com/b1eb9Bw5TMuICGXlampm", "backupImage": "images/142_Goku_GT_Super_Saiyan.webp" },
+        { "id": 56, "name": "Goku (GT)", "subname": "Super Saiyan 3", "image": "https://media.graphassets.com/zeXFuvvREaafy0Zn6iBg", "backupImage": "images/144_Goku_GT_Super_Saiyan3.webp" },
+        { "id": 57, "name": "Goku (GT)", "subname": "Super Saiyan 4", "image": "https://media.graphassets.com/hJ9UlTTGQ6G1G5Clra7i", "backupImage": "images/149_Goku_GT_Super_Saiyan4.webp" }
+      ]
+    },
+    { 
+      "id": 59, 
+      "name": "Uub (GT)", 
+      "image": "https://media.graphassets.com/n68XGYfNQWqUzTnEGfbK", 
+      "backupImage": "images/147_Uub.webp", 
+      "transformations": [
+        { "id": 60, "name": "Majuub (GT)", "image": "https://media.graphassets.com/bwH2b157Qz6BcJceKZ3x", "backupImage": "images/148_Majuub.webp" }
+      ] 
+    },
+    { 
+      "id": 61, 
+      "name": "Mr. Satan", 
+      "image": "https://media.graphassets.com/kdUewrrhQ2eiMPsLvvxA", 
+      "backupImage": "images/34_Mr._Satan_Hercule.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 62, 
+      "name": "Vegeta (GT)",
+      "subname": "Super Saiyan 4",
+      "image": "https://media.graphassets.com/zBmIB5QeRtSKgbBCfSuA", 
+      "backupImage": "images/153_Vegeta_GT_Super_Saiyan4.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 63, 
+      "name": "Gogeta (GT)",
+      "subname": "Super Saiyan 4",
+      "image": "https://media.graphassets.com/MOwWls0BTm6Zn4xm1scH", 
+      "backupImage": "images/154 _Gogeta_GT.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 64, 
+      "name": "Pan (GT)",
+      "image": "https://media.graphassets.com/iPDWI2UdR9m2PzlzEwGz", 
+      "backupImage": "images/141_Pan_GT.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 65, 
+      "name": "Goku (Teen)",
+      "image": "https://media.graphassets.com/CshnxbDbQPGIkuiUp7Bp", 
+      "backupImage": "images/181_Goku_Teen.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 66, 
+      "name": "Master Roshi", 
+      "image": "https://media.graphassets.com/Px1BpgjWQB2qapV3htQg", 
+      "backupImage": "images/58_Master_Roshi.webp", 
+      "transformations": [
+        { "id": 67, "name": "Master Roshi", "subname":"Max Power", "image": "https://media.graphassets.com/JmdgMnVRxOwRxbAyJm96", "backupImage": "images/44_Master Roshi_Max_Power.webp" }
+      ] 
+    },
+    { 
+      "id": 68, 
+      "name": "Tien",
+      "image": "https://media.graphassets.com/cuBsB2FQSyjxHobtV4MJ", 
+      "backupImage": "images/28_Tien_Shinhan.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 69, 
+      "name": "Chiaotzu",
+      "image": "https://media.graphassets.com/APrUaH15TR6Jm1ryUZ5V", 
+      "backupImage": "images/107_Chiaotzu.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 70, 
+      "name": "Yajirobe",
+      "image": "https://media.graphassets.com/BczRPZKXR4ypvkk9mqpe", 
+      "backupImage": "images/93_Yajirobe.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 71, 
+      "name": "Nail",
+      "image": "https://media.graphassets.com/WmMdaIspQsS8ItLlIrb0", 
+      "backupImage": "images/101_Nail.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 72, 
+      "name": "Gotenks", 
+      "image": "https://media.graphassets.com/mTP9u023Rli8yW8buWF0", 
+      "backupImage": "images/66_Gotenks.webp", 
+      "transformations": [
+        { "id": 73, "name": "Gotenks", "subname": "Super Saiyan", "image": "https://media.graphassets.com/EVhKEeDOTHmBERL1etYQ", "backupImage": "images/67_Gotenks_Super_Saiyan.webp" },
+        { "id": 74, "name": "Gotenks", "subname": "Super Saiyan 3", "image": "https://media.graphassets.com/BkteOhSSHy7uevDjXsXS", "backupImage": "images/68_Gotenks_Super_Saiyan3.webp" }
+      ]
+    },
+    { 
+      "id": 75, 
+      "name": "Vegito", 
+      "image": "https://media.graphassets.com/rNR3lARRvae0ab7RrRUv", 
+      "backupImage": "images/76_Vegito.webp", 
+      "transformations": [
+        { "id": 76, "name": "Super Vegito", "image": "https://media.graphassets.com/QP7NLZHzRZuu9X98zDhE", "backupImage": "images/92_Super_Vegito.webp" },
+        { "id": 77, "name": "Vegito", "subname": "Super Saiyan God Super Saiyan", "image": "https://media.graphassets.com/8NJ9VOqQgqZutVEYCfmO", "backupImage": "images/77_Vegito_Super_Saiyan_God_Super_Saiyan.webp" }
+      ]
+    },
+    { 
+      "id": 78, 
+      "name": "Super Gogeta (Z)",
+      "image": "https://media.graphassets.com/GfuT7fIvSsCmQC8IEf8B", 
+      "backupImage": "images/180_Super_Gogeta_Z.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 79, 
+      "name": "Raditz",
+      "image": "https://media.graphassets.com/9axuKzTvTBy50odWhyJE", 
+      "backupImage": "images/87_Raditz.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 80, 
+      "name": "Nappa",
+      "image": "https://media.graphassets.com/i7RSBM9UQDKVQr397ICe", 
+      "backupImage": "images/45_Nappa.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 81, 
+      "name": "Saibaman",
+      "image": "https://media.graphassets.com/ZQjwcorLRv6m7YgBtWWJ", 
+      "backupImage": "images/108_Saibaman.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 82, 
+      "name": "Ginyu",
+      "image": "https://media.graphassets.com/itBPEGaQZivEejEpmGjP", 
+      "backupImage": "images/113_Ginyu.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 83, 
+      "name": "Recoome",
+      "image": "https://media.graphassets.com/yTR31J3GTsCswrHMECho", 
+      "backupImage": "images/114_Recoome.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 84, 
+      "name": "Burter",
+      "image": "https://media.graphassets.com/pex1Qe7RDKbBnBU4LMnJ", 
+      "backupImage": "images/46_Burter.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 85, 
+      "name": "Jeice",
+      "image": "https://media.graphassets.com/GttKp0QaWCs0gcX9GKOA", 
+      "backupImage": "images/48_Jeice.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 86, 
+      "name": "Guldo",
+      "image": "https://media.graphassets.com/JRHLFI8UTafuMjBmLjEC", 
+      "backupImage": "images/115_Guldo.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 87, 
+      "name": "Cui",
+      "image": "https://media.graphassets.com/r4WM3FElTSqGnFQ6Ivcf", 
+      "backupImage": "images/112_Cui.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 88, 
+      "name": "Frieza (Z)", 
+      "subname": "1st Form",
+      "image": "https://media.graphassets.com/1jArYqY8QvSWJ50EBGjX", 
+      "backupImage": "images/102_Frieza1.webp", 
+      "transformations": [
+        { "id": 89, "name": "Frieza (Z)", "subname": "2nd Form", "image": "https://media.graphassets.com/zweLMcYGQ0KMWwmlxkZd", "backupImage": "images/103_Frieza2.webp" },
+        { "id": 90, "name": "Frieza (Z)", "subname": "3rd Form", "image": "https://media.graphassets.com/WtIRxlRSlKA40wAlXw4Q", "backupImage": "images/104_Frieza3.webp" },
+        { "id": 91, "name": "Frieza (Z)", "subname": "4th Form", "image": "https://media.graphassets.com/NDJRoUNTCOBckq7qmNAp", "backupImage": "images/105_Frieza4.webp" },
+        { "id": 92, "name": "Frieza (Z)", "subname": "Full Power", "image": "https://media.graphassets.com/sejlGpyWQI2wf2z3sQoB", "backupImage": "images/106_Frieza_Full_Power.webp" }
+      ]
+    },
+    { 
+      "id": 93, 
+      "name": "Mecha Frieza",
+      "image": "https://media.graphassets.com/lEkURH5QZvjQVBhdLYkw", 
+      "backupImage": "images/130_Mecha_Frieza.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 94, 
+      "name": "Frieza Force Soldier",
+      "image": "https://media.graphassets.com/QWsYZAxT7SsqkoKvHxPt", 
+      "backupImage": "images/155_Frieza_Force_Soldier.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 95, 
+      "name": "King Cold",
+      "image": "https://media.graphassets.com/drZK9nFTv6zmrCbObqAj", 
+      "backupImage": "images/129_King_Cold.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 96, 
+      "name": "Zarbon", 
+      "image": "https://media.graphassets.com/XkJ8Xio4QNoVq2sfugDp", 
+      "backupImage": "images/109_Zarbon.webp", 
+      "transformations": [
+        { "id": 97, "name": "Super Zarbon", "image": "https://media.graphassets.com/9St49Te4Qyu9e9dWLj70", "backupImage": "images/110_Super_Zarbon.webp" }
+      ]
+    },
+    { 
+      "id": 98, 
+      "name": "Dodoria",
+      "image": "https://media.graphassets.com/XFNRVYbSuegeCXKxWtIQ", 
+      "backupImage": "images/111_Dodoria.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 99, 
+      "name": "Cell", 
+      "subname": "1st Form",
+      "image": "https://media.graphassets.com/UcoWPJ6BSuiYV1JA8ekW", 
+      "backupImage": "images/124_Cell1.webp", 
+      "transformations": [
+        { "id": 100, "name": "Cell", "subname": "2nd Form", "image": "https://media.graphassets.com/bxo1LkIpT1elRbtUdBM6", "backupImage": "images/125_Cell2.webp" },
+        { "id": 101, "name": "Cell", "subname": "Perfect Form", "image": "https://media.graphassets.com/823umbIrToOEYy8YmCqM", "backupImage": "images/32_Cell_Perfect.webp" },
+        { "id": 102, "name": "Perfect Cell", "image": "https://media.graphassets.com/rro8fSpvSTOAeewBqPkl", "backupImage": "images/126_Perfect_Cell.webp" }
+      ]
+    },
+    { 
+      "id": 103, 
+      "name": "Cell Jr.",
+      "image": "https://media.graphassets.com/T6OxKrb0Rb2dwLDmgAYr", 
+      "backupImage": "images/127_Cell_Jr.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 104, 
+      "name": "Dr. Gero",
+      "image": "https://media.graphassets.com/RqdhWw3fQ9CTPdiOBwzn", 
+      "backupImage": "images/123_Dr_Gero.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 105, 
+      "name": "Android 19",
+      "image": "https://media.graphassets.com/MZEZEfzjRZGqtoisR7Lf", 
+      "backupImage": "images/122_Android_19.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 106, 
+      "name": "Android 16",
+      "image": "https://media.graphassets.com/b1PpLEbnSvGiYZFLxcOJ", 
+      "backupImage": "images/121_Android_16.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 107, 
+      "name": "Android 17 (Z)",
+      "image": "https://media.graphassets.com/aAiHlrMSrKqbjR1l3h9w", 
+      "backupImage": "images/120_Android_17_Z.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 108, 
+      "name": "Majin Buu",
+      "image": "https://media.graphassets.com/XnIrujdgQWWGIYqkRYjT", 
+      "backupImage": "images/33_Majin_Buu.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 109, 
+      "name": "Majin Buu (Evil)",
+      "image": "https://media.graphassets.com/gjNMtpUPRxSPvMY7jI9V", 
+      "backupImage": "images/134_Majin_Buu_Evil.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 110, 
+      "name": "Super Buu", 
+      "image": "https://media.graphassets.com/vGLR10lZQSyECn1Jlwlw", 
+      "backupImage": "images/135_Super_Buu.webp", 
+      "transformations": [
+        { "id": 111, "name": "Super Buu", "subname": "Gotenks Absorbed", "image": "https://media.graphassets.com/fqgCUlnSDecvdV8CYDU1", "backupImage": "images/137_Super_Buu_Gotenks.webp" },
+        { "id": 112, "name": "Super Buu", "subname": "Gohan Absorbed", "image": "https://media.graphassets.com/WobWChAtRk2jdrvAg91i", "backupImage": "images/138_Super_Buu_Gohan.webp" }
+      ]
+    },
+    { 
+      "id": 113, 
+      "name": "Kid Buu",
+      "image": "https://media.graphassets.com/lcuApkxiQiS9zMWcFqKI", 
+      "backupImage": "images/139_Kid_Buu.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 114, 
+      "name": "Android 18",
+      "image": "https://media.graphassets.com/WE9Vz1USYSUMz2d4zNcQ", 
+      "backupImage": "images/36_Android_18.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 115, 
+      "name": "Android 17 (Super)",
+      "image": "https://media.graphassets.com/UkeqNShQrCgo8FK00pE7", 
+      "backupImage": "images/35_Android_17_Super.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 116, 
+      "name": "Babidi",
+      "image": "https://media.graphassets.com/G4XzEPceSyW0LVb0BMUZ", 
+      "backupImage": "images/132_Babidi.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 117, 
+      "name": "Spopovich",
+      "image": "https://media.graphassets.com/czFoAT7Rpu48FzNQZNFU", 
+      "backupImage": "images/95_Spopovich.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 118, 
+      "name": "Dabura",
+      "image": "https://media.graphassets.com/CEv4XtvfQq81ETxf95Sn", 
+      "backupImage": "images/94_Dabura.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 119, 
+      "name": "Frieza (Super)", 
+      "image": "https://media.graphassets.com/IHVUPISqWLA8qwJOVPwY", 
+      "backupImage": "images/31_Frieza_Super.webp", 
+      "transformations": [
+        { "id": 120, "name": "Golden Frieza", "image": "https://media.graphassets.com/CK7xzAbwSLaKOP9SbPPQ", "backupImage": "images/85_Golden_Frieza.webp" }
+      ]
+    },
+    { 
+      "id": 121, 
+      "name": "Beerus",
+      "image": "https://media.graphassets.com/pCOnfsNbShqGXlTGS05x", 
+      "backupImage": "images/52_Beerus.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 122, 
+      "name": "Whis",
+      "image": "https://media.graphassets.com/RXIyCzBTQFGrWwj68TUr", 
+      "backupImage": "images/61_Whis.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 123, 
+      "name": "Hit",
+      "image": "https://media.graphassets.com/3dKHvJYCQEGefu0uyORY", 
+      "backupImage": "images/51_Hit.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 124, 
+      "name": "Cabba", 
+      "image": "https://media.graphassets.com/6ygnoYEOSniKw07ojrQf", 
+      "backupImage": "images/156_Cabba.webp", 
+      "transformations": [
+        { "id": 125, "name": "Cabba", "subname": "Super Saiyan", "image": "https://media.graphassets.com/sdv1IvybTOeq088ikE5h", "backupImage": "images/159_Cabba_Super_Saiyan.webp" },
+        { "id": 126, "name": "Cabba", "subname": "Super Saiyan 2", "image": "https://media.graphassets.com/klkz1WlMTaqxJh1jmdfM", "backupImage": "images/160_Cabba_Super_Saiyan2.webp" }
+      ]
+    },
+    { 
+      "id": 127, 
+      "name": "Kale", 
+      "image": "https://media.graphassets.com/z0cORSZ8RdGULNsepmGw", 
+      "backupImage": "images/69_Kale.webp", 
+      "transformations": [
+        { "id": 128, "name": "Kale", "subname": "Super Saiyan", "image": "https://media.graphassets.com/JEMlpFSMi34ZO0Y599wG", "backupImage": "images/70_Kale_Super_Saiyan.webp" },
+        { "id": 129, "name": "Kale", "subname": "Super Saiyan (Berserk)", "image": "https://media.graphassets.com/HR4BiJUQQOeuJ1iHBNbw", "backupImage": "images/49_Kale_Super_Saiyan_Berserk.webp" }
+      ]
+    },
+    { 
+      "id": 130, 
+      "name": "Caulifla", 
+      "image": "https://media.graphassets.com/YrxMDNFiTVinAis1BkU6", 
+      "backupImage": "images/71_Caulifla.webp", 
+      "transformations": [
+        { "id": 131, "name": "Caulifla", "subname": "Super Saiyan 2", "image": "https://media.graphassets.com/p6tLrY8uTYKMuYTbNGCp", "backupImage": "images/72_Caulifla_Super_Saiyan2.webp" }
+      ]
+    },
+    { 
+      "id": 132, 
+      "name": "Kefla", 
+      "image": "https://media.graphassets.com/kvrLeYcSAea3x7Ifxh1B", 
+      "backupImage": "images/73_Kefla.webp", 
+      "transformations": [
+        { "id": 133, "name": "Kefla", "subname": "Super Saiyan", "image": "https://media.graphassets.com/6C5mlXTMRUmqFCiWamCv", "backupImage": "images/74_Kefla_Super_Saiyan.webp" },
+        { "id": 134, "name": "Kefla", "subname": "Super Saiyan 2", "image": "https://media.graphassets.com/i7uoD9ZTm2BYNvkekKXe", "backupImage": "images/75_Kefla_Super_Saiyan2.webp" }
+      ]
+    },
+    { 
+      "id": 135, 
+      "name": "Frost",
+      "image": "https://media.graphassets.com/amTYFTfT2OTk7G5w1e2T", 
+      "backupImage": "images/157_Frost.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 136, 
+      "name": "Zamasu", 
+      "image": "https://media.graphassets.com/l6EwcdKNQCiSoAOfu5QA", 
+      "backupImage": "images/89_Zamasu.webp", 
+      "transformations": [
+        { "id": 137, "name": "Fused Zamasu", "image": "https://media.graphassets.com/z6yg9i09TViLcVU9Fjz1", "backupImage": "images/81_Fused_Zamasu.webp" },
+        { "id": 138, "name": "Fused Zamasu", "subname": "Half-Corrupted", "image": "https://media.graphassets.com/a2Kb713GR4qYkTEpOOCr", "backupImage": "images/82_Fused_Zamasu_Half_Corrupted.webp" }
+      ]
+    },
+    { 
+      "id": 139, 
+      "name": "Goku Black", 
+      "image": "https://media.graphassets.com/vwGsTku8ScecBw2cyeqY", 
+      "backupImage": "images/88_Goku_Black.webp", 
+      "transformations": [
+        { "id": 140, "name": "Goku Black", "subname": "Super Saiyan Rose", "image": "https://media.graphassets.com/kEC7V9YSS3yOa9Oy9mYQ", "backupImage": "images/96_Goku_Black_Super_Saiyan_Rose.webp" }
+      ]
+    },
+    { 
+      "id": 141, 
+      "name": "Ribrianne",
+      "image": "https://media.graphassets.com/VNjDj2wRESVoTNJFT67Q", 
+      "backupImage": "images/98_Ribrianne.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 142, 
+      "name": "Kakunsa",
+      "image": "https://media.graphassets.com/QtStIADAQfmxNk74ToSF", 
+      "backupImage": "images/43_Kakunsa.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 143, 
+      "name": "Roasie",
+      "image": "https://media.graphassets.com/gbslIJhaRjiscrGhmFQp", 
+      "backupImage": "images/99_Roasie.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 144, 
+      "name": "Anilaza",
+      "image": "https://media.graphassets.com/1eybjwh2T3SYiQmw6djK", 
+      "backupImage": "images/100_Anilaza.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 145, 
+      "name": "Jiren", 
+      "image": "https://media.graphassets.com/4WOoQlXqRsaDe7HSjhMY", 
+      "backupImage": "images/39_Jiren.webp", 
+      "transformations": [
+        { "id": 146, "name": "Jiren", "subname": "Full Power", "image": "https://media.graphassets.com/feTnQ0YRROq4miZC66AE", "backupImage": "images/90_Jiren_Full_Power.webp" }
+      ]
+    },
+    { 
+      "id": 147, 
+      "name": "Toppo", 
+      "image": "https://media.graphassets.com/cMApbYBURAShVRhlIKhH", 
+      "backupImage": "images/47_Toppo.webp", 
+      "transformations": [
+        { "id": 148, "name": "Toppo", "subname": "God of Destruction", "image": "https://media.graphassets.com/4cINWMSb2irraaAV1MdQ", "backupImage": "images/158_Toppo_God_Of_Destruction.webp" }
+      ]
+    },
+    { 
+      "id": 149, 
+      "name": "Dyspo",
+      "image": "https://media.graphassets.com/bKwf3rmpTOrg0X1or2gD", 
+      "backupImage": "images/42_Dyspo.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 150, 
+      "name": "Bergamo",
+      "image": "https://media.graphassets.com/1V0lQaZcSiCrYxamzksa", 
+      "backupImage": "images/40_Bergamo.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 151, 
+      "name": "Broly (Super)", 
+      "image": "https://media.graphassets.com/RoVseZzXQlq1fZpauVhm", 
+      "backupImage": "images/37_Broly_Super.webp", 
+      "transformations": [
+        { "id": 152, "name": "Broly (Super)", "subname": "Super Saiyan", "image": "https://media.graphassets.com/1drpqbZ1T9eDzET7nEkF", "backupImage": "images/38_Broly_Super_Saiyan_Super.webp" },
+        { "id": 153, "name": "Broly (Super)", "subname": "Super Saiyan Full Power", "image": "https://media.graphassets.com/YKjDnFmMTfKvl8Lomb5x", "backupImage": "images/50_Broly_Super_Super_Saiyan_Full_Power.webp" }
+      ]
+    },
+    { 
+      "id": 154, 
+      "name": "Gogeta (Super)", 
+      "image": "https://media.graphassets.com/YsOR5oXlS3mFfEWQqaWw", 
+      "backupImage": "images/78_Gogeta_Super.webp", 
+      "transformations": [
+        { "id": 155, "name": "Gogeta (Super)", "subname": "Super Saiyan", "image": "https://media.graphassets.com/4QhTyd9cR82RTrC7dlXo", "backupImage": "images/79_Gogeta_Super_Super_Saiyan.webp" },
+        { "id": 156, "name": "Gogeta (Super)", "subname": "Super Saiyan God Super Saiyan", "image": "https://media.graphassets.com/7cdf4cQZR0m01HEGUBeJ", "backupImage": "images/80_Gogeta_Super_Super_Saiyan_God.webp" }
+      ]
+    },
+    { 
+      "id": 157, 
+      "name": "Bardock",
+      "image": "https://media.graphassets.com/KwoqPMRgToDALjtTjcHC", 
+      "backupImage": "images/86_Bardock.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 158, 
+      "name": "Super Garlic Jr.",
+      "image": "https://media.graphassets.com/BLO693osTn2oE9UxCwr7", 
+      "backupImage": "images/169_Super_Garlic_Jr.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 159, 
+      "name": "Dr. Wheelo",
+      "image": "https://media.graphassets.com/ZN86GSzERg1671Hfz3JJ", 
+      "backupImage": "images/170_Dr_Wheelo.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 160, 
+      "name": "Turles",
+      "image": "https://media.graphassets.com/mOQDxMf3SI6XNQ85QbZK", 
+      "backupImage": "images/173_Turles.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 161, 
+      "name": "Lord Slug", 
+      "image": "https://media.graphassets.com/Yv1eq4bgR5KViOIyIPZI", 
+      "backupImage": "images/171_Lord_Slug.webp", 
+      "transformations": [
+        { "id": 162, "name": "Lord Slug", "subname": "Giant Form", "image": "https://media.graphassets.com/jUZ1Aq4zRNekYfVqmUUU", "backupImage": "images/172_Lord_Slug_Giant_Form.webp" }
+      ]
+    },
+    { 
+      "id": 163, 
+      "name": "Android 13", 
+      "image": "https://media.graphassets.com/4dFQn6a9SVHfUMdkzudD", 
+      "backupImage": "images/167_Android_13.webp", 
+      "transformations": [
+        { "id": 164, "name": "Fusion Android 13", "image": "https://media.graphassets.com/j621vlLTOboDM3wOAvEw", "backupImage": "images/168_Fusion_Android_13.webp" }
+      ]
+    },
+    { 
+      "id": 165, 
+      "name": "Cooler", 
+      "image": "https://media.graphassets.com/E5uYRVJ5Qnqch4AsMJMN", 
+      "backupImage": "images/164_Cooler.webp", 
+      "transformations": [
+        { "id": 166, "name": "Cooler Slug", "subname": "Final Form", "image": "https://media.graphassets.com/TtKr1zwYTZqlYQ3Lanrv", "backupImage": "images/165_Cooler_Final_Form.webp" }
+      ]
+    },
+    { 
+      "id": 167, 
+      "name": "Metal Cooler",
+      "image": "https://media.graphassets.com/4yNUPhAeSqWtJUxlVY8q", 
+      "backupImage": "images/166_Metal_Cooler.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 168, 
+      "name": "Broly (Z)", 
+      "image": "https://media.graphassets.com/f9ckNtdRRbadAbAuucgS", 
+      "backupImage": "images/161_Broly_Z.webp", 
+      "transformations": [
+        { "id": 169, "name": "Broly (Z)", "subname": "Super Saiyan", "image": "https://media.graphassets.com/WQWPcRCwS5KZ9g1TysoH", "backupImage": "images/162_Broly_Z_Super_Saiyan.webp" },
+        { "id": 170, "name": "Broly (Z)", "subname": "Legendary Super Saiyan", "image": "https://media.graphassets.com/a5WFg6CGR8qERJFWaNg0", "backupImage": "images/163_Broly_Z_Legandary_Super_Saiyan.webp" }
+      ]
+    },
+    { 
+      "id": 171, 
+      "name": "Bojack", 
+      "image": "https://media.graphassets.com/pQ1nlLaSReeuYS0Sqv7d", 
+      "backupImage": "images/174_Bojack.webp", 
+      "transformations": [
+        { "id": 172, "name": "Full-Power Bojack", "image": "https://media.graphassets.com/2NEX0WyQvKXg5sSJMGBP", "backupImage": "images/175_Full_Power_Bojack.webp" }
+      ]
+    },
+    { 
+      "id": 173, 
+      "name": "Janemba", 
+      "image": "https://media.graphassets.com/VjCb76MDTdgT2fSuocV5", 
+      "backupImage": "images/178_Janemba.webp", 
+      "transformations": [
+        { "id": 174, "name": "Super Janemba", "image": "https://media.graphassets.com/rz9BcZTfQzSw6ehSa44s", "backupImage": "images/179_Super_Janemba.webp" }
+      ]
+    },
+    { 
+      "id": 175, 
+      "name": "Hirudegarn",
+      "image": "https://media.graphassets.com/BG0F3jt3R1CBKVxMO4B7", 
+      "backupImage": "images/176_Hirudegarn.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 176, 
+      "name": "Tapion",
+      "image": "https://media.graphassets.com/G0rxOtUJQG61g2VwpuDO", 
+      "backupImage": "images/177_Tapion.webp", 
+      "transformations": [] 
+    },
+    { 
+      "id": 177, 
+      "name": "Baby Vegeta (GT)", 
+      "image": "https://media.graphassets.com/JChkXUA3RwK4hmWVEwyA", 
+      "backupImage": "images/143_Baby_Vegeta.webp", 
+      "transformations": [
+        { "id": 178, "name": "Super Baby 1 (GT)", "image": "https://media.graphassets.com/xr8EZOUMSznereOAUQow", "backupImage": "images/145_Super_Baby_1.webp" },
+        { "id": 179, "name": "Super Baby 2 (GT)", "image": "https://media.graphassets.com/vpt3rntMTTSqDmciUeDv", "backupImage": "images/146_Super_Baby_2.webp" },
+        { "id": 180, "name": "Great Ape Baby (GT)", "image": "https://media.graphassets.com/sk1TYLcySueD6d6zjvyP", "backupImage": "images/150_Great_Ape_Baby.webp" }
+      ]
+    },
+    { 
+      "id": 181, 
+      "name": "Syn Shenron", 
+      "image": "https://media.graphassets.com/1hZK8lc5RdKpzyrbZquV", 
+      "backupImage": "images/151_Syn_Shenron.webp", 
+      "transformations": [
+        { "id": 182, "name": "Omega Shenron (GT)", "image": "https://media.graphassets.com/MVfFVW1TRF2BNNqMetgc", "backupImage": "images/152_Omega_Shenron.webp" }
+      ]
+    }
+  ]
+  

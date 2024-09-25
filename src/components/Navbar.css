@@ -1,0 +1,19 @@
+  @font-face {
+    font-family: 'Saiyan-Sans';
+    src: url('../fonts/Saiyan-Sans.ttf') format('truetype');
+  }
+  
+  .navbar-logo {
+    width: 40px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  .navbar-title {
+    font-family: 'Saiyan-Sans';
+    font-size: 1.8rem;
+    cursor: pointer;
+    display: inline-block;
+    margin-right: auto;
+  }
+  

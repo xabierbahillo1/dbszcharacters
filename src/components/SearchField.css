@@ -1,0 +1,11 @@
+  .search-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .search-input {
+    background-color: #fff;
+    border-radius: 5px;
+    margin-left: 10px;
+  }
+  
