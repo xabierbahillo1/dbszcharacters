@@ -785,7 +785,7 @@
       "image": "https://media.graphassets.com/E5uYRVJ5Qnqch4AsMJMN", 
       "backupImage": "images/164_Cooler.webp", 
       "transformations": [
-        { "id": 166, "name": "Cooler Slug", "subname": "Final Form", "image": "https://media.graphassets.com/TtKr1zwYTZqlYQ3Lanrv", "backupImage": "images/165_Cooler_Final_Form.webp" }
+        { "id": 166, "name": "Cooler", "subname": "Final Form", "image": "https://media.graphassets.com/TtKr1zwYTZqlYQ3Lanrv", "backupImage": "images/165_Cooler_Final_Form.webp" }
       ]
     },
     { 
