@@ -18,4 +18,4 @@ This project displays the list of characters from the game Dragon Ball Sparking!
 
 ## Demo
 
-https://dbszcharacters.vercel.app/
+https://dbszcharacters.xabierbahillo.dev/
